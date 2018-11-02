@@ -3,7 +3,7 @@
 ??? info "Synopsis"
     Nolu, an archival daemon, is separated from his user in a widespread network outage and works to restore connectivity to the system.
 
-My entry for [National Novel Writing Month](https://nanowrimo.org/) 2018. I'll be doing my best to reach the expected goal of 50,000 words, but the real priority is the following three things:
+[My entry](https://nanowrimo.org/participants/oronymzy/novels/good-dae) for [National Novel Writing Month](https://nanowrimo.org/) 2018. I'll be doing my best to reach the expected goal of 50,000 words, but the real priority is the following three things:
 
 * [ ] Include a beginning, middle, and end.
 * [ ] Emphasize [positivity](https://en.wikipedia.org/wiki/Positive_psychology).
