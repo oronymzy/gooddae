@@ -1,1 +1,3 @@
 Nolu was in the site. He'd found a map near the entrance, reasonably current and well-crafted. He had seen only a few other daemons, and many rooms he had found that nobody had visited in months. All the files had smelled stale and unpermissive. In one ramshackle corner was a package with illicit goods, a cracked program with long-obsolete functionality. He had written down its address and forwarded it to his user.
+
+The site had a nice little wet room. The showerheads were polished and warm. The resident programs were robust enough to not need regular updates, so the room was almost empty. His only companion was a lengthy housekeeping program curled up around a faded traffic cone. It was nice to feel the hot water hit his shoulders and back, washing away the aging code.
